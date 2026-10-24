@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wilson;Lydia;J.;;
+FN:Lydia J. Wilson, PhD, DABR
+ORG:Thomas Jefferson University;Department of Radiation Oncology
+TITLE:Assistant Professor and Medical Physicist
+EMAIL;TYPE=WORK:lydia.wilson@jefferson.edu
+TEL;TYPE=WORK,VOICE:267-518-5764
+ADR;TYPE=WORK:;;;Philadelphia;PA;;USA
+END:VCARD
